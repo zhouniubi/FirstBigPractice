@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="进制">
+        <item>二进制</item>
+        <item>八进制</item>
+        <item>十进制</item>
+        <item>十六进制</item>
+    </string-array>
+    <string-array name="长度单位">
+        <item>mm</item>
+        <item>cm</item>
+        <item>dm</item>
+        <item>m</item>
+    </string-array>
+    <string-array name="体积">
+        <item>mm³</item>
+        <item>cm³</item>
+        <item>dm³</item>
+        <item>m³</item>
+    </string-array>
+    <string-array name="汇率">
+        <item>CNY</item>
+        <item>USD</item>
+        <item>EUR</item>
+        <item>JPY</item>
+    </string-array>
+</resources>
